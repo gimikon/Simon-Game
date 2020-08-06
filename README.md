@@ -1,4 +1,4 @@
 # Simon-Game
 educational purpose
 
-#with jQuery
+https://gimikon.github.io/Simon-Game/.
